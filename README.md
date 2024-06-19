@@ -1,2 +1,12 @@
 # Project_GrubDash
-thinkful/be/Project_GrubDash_Qualified_Node_18_1
+This project is the backend of an application where you can 
+* read
+* create
+* delete
+* update
+
+2 objects:
+* dishes
+* orders
+
+In order to see the usage of the endpoints, see the /src/dishes and /src/orders foolders.
